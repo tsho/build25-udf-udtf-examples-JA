@@ -3,7 +3,7 @@
 
 -- Set the role, database, and schema context
 USE ROLE SNOWFLAKE_INTELLIGENCE_ADMIN;
-USE DATABASE DASH_DB_SI;
+USE DATABASE DB_SI_JP;
 USE SCHEMA RETAIL;
 
 -- Display all existing functions
